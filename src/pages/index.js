@@ -14,7 +14,7 @@ const IndexPage = () => (
         id="about"
       >
         <div className="w-100">
-          <h1 className="mb-0">
+          <h1 className="mb-0 name">
             {config.firstName}
             <span className="text-primary">{config.lastName}</span>
           </h1>

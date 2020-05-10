@@ -25,6 +25,16 @@ h6 {
   color: wheat;
 }
 
+.name {
+
+  display: flex;
+  
+  @media (max-width: 991px) {
+
+    flex-direction: column;
+  }
+}
+
 h1 {
   font-size: 6rem;
   line-height: 5.5rem;
