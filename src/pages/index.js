@@ -23,8 +23,8 @@ const IndexPage = () => (
           </div>
           <p className="lead mb-5">
             Passionate about software and always willing to learn new things.<br></br>
-            During the last years I have worked in big companies and I have lived the experience of working in a start up. 
-            Currently I have developed multiple projects as a software engineer both front and back. Although I feel more attracted by the backend.
+            Over the past few years I have had the opportunity to work in large companies, in small companies and currently in a medium sized company. 
+            I have developed many projects and their different parts as frontend, backend, data loads. I am a versatile developer who is more comfortable in the backend.
           </p>
           <div className="social-icons">
             {config.socialLinks.map(social => {
