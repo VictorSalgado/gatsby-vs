@@ -146,7 +146,7 @@ const IndexPage = () => (
               <div className="subheading mb-3">Business Analytics &amp; Big Data Msc</div>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">Septembre 2018 - Present</span>
+              <span className="text-primary">Septembre 2018 - September 2020</span>
             </div>
           </div>
         </div>
